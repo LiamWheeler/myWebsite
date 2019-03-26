@@ -1,0 +1,50 @@
+.title{
+    color: #721121;
+    font-family: cursive;
+    font-size: 500%;
+    text-align: center;
+}
+
+h1{
+    color:#721121;
+    font-size: 300%;
+    font-family: cursive;
+}
+
+h4{
+    color: #721121;
+    font-family: cursive;
+    font-size: 250%;
+}
+
+body{
+    background-color: skyblue;
+}
+
+.para{
+    color: black;
+    font-family: arial;
+    padding: 6px;
+    background-color: white;
+    border: 2px solid;
+}
+
+.jump{
+    color: #721121;
+    font-size: 150%;
+}
+
+.buttons{
+    color: black;
+    font-family: arial;
+    background-color: rgb(111, 32, 248);
+    border: 2px solid;
+    
+    
+}
+
+
+
+
+
+
